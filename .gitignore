@@ -2,3 +2,4 @@ data
 logs
 .idea
 tutorial_notebooks/.ipynb_checkpoints
+venv/
